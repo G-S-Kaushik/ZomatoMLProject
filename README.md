@@ -35,10 +35,10 @@ Dataset Selection: Utilized the cleaned Zomato.csv file with preprocessing and f
 
 Target Feature Definition: Chose "cost_per_plate" as the target feature for regression analysis.
 
-
-
 Regression Techniques: Employed regression techniques for modeling. Among them, the stacked model showed superior performance compared to other regression models.
 
 ## Model Deployment
 Using the pickle and Streamlit libraries, I developed an interactive web app. This app allows end users to receive estimated results from the machine learning model with ease.
+
+![app](https://github.com/G-S-Kaushik/ZomatoMLProject/assets/108515997/4a2a3669-434e-4438-b1a1-ef7597a03033)
 
