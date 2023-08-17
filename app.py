@@ -7,8 +7,6 @@ from sklearn.preprocessing import LabelEncoder,MinMaxScaler
 # adding title to the website
 st.title('Price Prediction')
 
-st.image('C:\\Users\\skau\\OneDrive\\Desktop\\NIIT\\Practice\\zomato\\app\\Zomato-logo-768x432.jpg')
-
 # adding header to the websits - st.header('') for subheader st.subheader('') for text st.text('')
 
 
